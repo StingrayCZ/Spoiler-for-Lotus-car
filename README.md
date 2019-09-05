@@ -32,7 +32,7 @@ Used software:
   <img src="/Picture/Spoiler&Pylons_2.JPG" width="400" /> 
 </p>
 
-## Manufucturing
+## Manufacturing
 <p float="left">
   <img src="/Picture/Spoiler_4.PNG" width="400" />
 </p>
