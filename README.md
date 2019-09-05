@@ -1,4 +1,4 @@
-# Spoiler for Lotus car
+# Spoiler for the Lotus car
 
 <p float="left">
   <img src="/Picture/Display_7.jpg" width="400" /> 
