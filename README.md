@@ -20,7 +20,13 @@ Used software:
 * Tebis CAD/CAM
 * Solid Works
 
-## Spoiler
+## Existing Spoiler Shape
+<p float="left">
+  <img src="/Picture/Origin_1.PNG" width="400" /> 
+  <img src="/Picture/Origin_1.PNG" width="400" /> 
+</p>
+
+## Redesigned spoiler
 <p float="left">
   <img src="/Picture/Spoiler&Pylons_1.JPG" width="400" /> 
   <img src="/Picture/Spoiler&Pylons_2.JPG" width="400" /> 
