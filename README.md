@@ -15,6 +15,11 @@ The same case was the production of a spoiler for the mentioned Lotus sports car
 
 Within the framework of the presentation of other skills of the company and the demonstration of using modern technology as fast prototype production, a new spoiler using 3D printing from ABS material was produced. The length of the wing made it impossible to produce a spoiler as a single block, so the model had to be divided into several sections in electronic form. Since, in addition to the static presentation, driving tests were also envisaged and it was clear that using only glue the glued-on parts would not hold together, steel rod reinforcements were included in the spoiler design.
 
+Used software:
+* Atos Gom
+* Tebis CAD/CAM
+* Solid Works
+
 ## Spoiler
 <p float="left">
   <img src="/Picture/Spoiler&Pylons_1.JPG" width="400" /> 
