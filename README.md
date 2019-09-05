@@ -12,7 +12,7 @@ The same case was the spoiler for the yellow sports car Lotos, specifically the 
   <img src="/Picture/Spoiler&Pylons_2.JPG" width="400" /> 
 </p>
 
-## Application
+## Manufucturing
 <p float="left">
   <img src="/Picture/Spoiler_4.PNG" width="400" />
 </p>
