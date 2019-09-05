@@ -1,9 +1,9 @@
 # Spoiler for Lotus car
 
 <p float="left">
-  <img src="/Picture/Display_7.jpg" width="300" /> 
-  <img src="/Picture/Spoiler&Pylons_1.JPG" width="300" /> 
-  <img src="/Picture/Display_1.jpg" width="300" /> 
+  <img src="/Picture/Display_7.jpg" width="200" /> 
+  <img src="/Picture/Spoiler&Pylons_1.JPG" width="200" /> 
+  <img src="/Picture/Display_1.jpg" width="200" /> 
 </p>
 
 During my time at MCAE systems, s.r.o., I was given the task of redesigning the existing spoiler design, which, among other things, did not include the brake light. Modern 3D technologies such as 3D scanning, reverse engineering and 3D printing were widely used during this project. By the way, result of my effort was a one of stunning thing on IEF 2018. 
