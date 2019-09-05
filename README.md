@@ -23,7 +23,7 @@ Used software:
 ## Existing Spoiler Shape
 <p float="left">
   <img src="/Picture/Origin_1.PNG" width="400" /> 
-  <img src="/Picture/Origin_1.PNG" width="400" /> 
+  <img src="/Picture/Origin_2.PNG" width="400" /> 
 </p>
 
 ## Redesigned spoiler
